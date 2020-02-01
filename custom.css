@@ -1,0 +1,44 @@
+@media only screen and (max-width: 324px) {
+	.text-head-responsive{
+		font-size: 1.3rem;
+	}
+	.text-sub-responsive{
+		font-size: 1.1rem;
+	}
+}
+
+@media (min-width: 325px) and (max-width: 767px) {
+	.text-head-responsive{
+		font-size: 2rem;
+	}
+	.text-sub-responsive{
+		font-size: 1.2rem;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.text-head-responsive{
+		font-size: 3rem;
+	}
+	.text-sub-responsive{
+		font-size: 1.3rem;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.text-head-responsive{
+		font-size: 4rem;
+	}
+	.text-sub-responsive{
+		font-size: 1.4rem;
+	}
+}
+
+@media (min-width: 1200px) {
+	.text-head-responsive{
+		font-size: 5rem;
+	}
+	.text-sub-responsive{
+		font-size: 1rem;
+	}
+}
